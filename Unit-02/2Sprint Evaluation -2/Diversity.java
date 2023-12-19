@@ -22,6 +22,7 @@ class Main{
                 }
             }
             System.out.println(maxFamilies );
+            
         }
     }
 }
